@@ -35,6 +35,8 @@
     }
   ],
   "lang": "en-US",
+  "id": "./test.html",
+  "description": "hello",
   "start_url": "./test.html",
   "display": "standalone",
   "background_color": "#db9e30",

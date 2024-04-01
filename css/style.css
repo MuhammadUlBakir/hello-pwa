@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background-color: #db9e32;
+  background-color: #db9e32 !important;
 }
 
 /* Make content area fill the entire browser window */
